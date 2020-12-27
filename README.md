@@ -6,10 +6,10 @@ Just osme notebooks and supporting infrastructure for a quick look at pythn
 
 To use this code, you need of python3 and the [pipenv](https://pypi.org/project/pipenv/) package manager to install these notebooks.
 
-In a terminal window verify python3 is installed:
+In a [Terminal](https://www.businessinsider.com/how-to-open-terminal-on-mac) window verify python3 is installed by tyoing in this command:
 `python3 --version`
 
-After thast, install the pipenv package manager:
+After thast, install the pipenv package manager, which will be used to install libraries and tools (called dependencies) for this code:
 `pip install pipenv`
 
 Next, download this code to your computer. Find a good spot, say your Documents folder to store this code:
