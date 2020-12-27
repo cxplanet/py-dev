@@ -21,7 +21,10 @@ Using git, a tool that manages code store in github, we copy the code to our lap
 Change directories to the py-dev code we just copied:
 `cd py-dev`
 
-Use the pipenv tool to download the libraries we need and create a new workspace to do our coding in:
+Use the pipenv tool to download the libraries we need:
+`pipenv install`
+
+After installing the libraries we need, we start a 'shell', basically a workspace to run our notebook in:
 `pipenv shell`
 
 And finally, launch our notebook, so that we can do coding:
